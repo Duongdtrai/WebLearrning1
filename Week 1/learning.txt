@@ -1,0 +1,3 @@
+-Làm quen vscode
+- Cách đẩy dự án lên trên github
+- Cách tạo 1 file 
